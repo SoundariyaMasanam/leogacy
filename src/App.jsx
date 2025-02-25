@@ -9,6 +9,7 @@ import Footer from './components/Footer'
 import GetStarted from "./components/GetStarted";
 import Download from "./components/Download";
 import Copywrite from "./components/Copywrite";
+import Sample from "./components/Sample";
 function App() {
   return (
     <div>
@@ -18,7 +19,7 @@ function App() {
   <GetStarted />
   <Download />
   <Analytics />
-
+<Sample />
   <Newsletter />
   <Footer />
   <Copywrite />
